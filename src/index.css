@@ -512,7 +512,7 @@ img {
   margin-left: 50%;
 }
 
-@media (max-width: 375px) {
+@media (max-width: 320px) {
   .third-split-section .collection-description-right-text {
     margin-left: 40%;
   }
